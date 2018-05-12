@@ -31,6 +31,8 @@ creator:
     - http://en.wikipedia.org/wiki/Miguel_de_Cervantes
 description: 'From the preface: "[...] the excellent translation of Motteux has been
   principally adhered to in the present edition."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35993#The-History-of-Don-Quixote-de-la-Mancha
 gutenberg_bookshelf: Best Books Ever Listings
 gutenberg_issued: '2011-04-29'
 gutenberg_type: Text
