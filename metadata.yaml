@@ -1,0 +1,50 @@
+_repo: The-History-of-Don-Quixote-de-la-Mancha_35993
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Motteux, Peter Anthony
+    aliases:
+    - Motteux, P. A. (Peter Anthony)
+    - Lemotteux, Pierre Antoine
+    - Motteux, Pierre Antoine
+    birthdate: 1660
+    deathdate: 1718
+    gutenberg_agent_id: '4933'
+    url: http://www.gutenberg.org/2009/agents/4933
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cervantes Saavedra, Miguel de
+    aliases:
+    - De Cervantes Saavedra, Miguel
+    - Cervantes, Miguel de
+    - Saavedra, Miguel de Cervantes
+    - Cervantes, Michel
+    birthdate: 1547
+    deathdate: 1616
+    gutenberg_agent_id: '505'
+    url: http://www.gutenberg.org/2009/agents/505
+    wikipedia:
+    - http://es.wikipedia.org/wiki/Miguel_de_Cervantes
+    - http://en.wikipedia.org/wiki/Miguel_de_Cervantes
+description: 'From the preface: "[...] the excellent translation of Motteux has been
+  principally adhered to in the present edition."'
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '2011-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35993'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Romances'
+- !lcc 'PQ'
+- !lcsh 'Spain -- Social life and customs -- 16th century -- Fiction'
+- !lcsh 'Knights and knighthood -- Spain -- Fiction'
+- !lcsh 'Picaresque literature'
+title: The History of Don Quixote de la Mancha
+url: http://www.gutenberg.org/ebooks/35993
